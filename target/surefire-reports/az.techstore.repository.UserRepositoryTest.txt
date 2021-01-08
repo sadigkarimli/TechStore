@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: az.techstore.repository.UserRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 31.466 s <<< FAILURE! - in az.techstore.repository.UserRepositoryTest
+testGetUserList(az.techstore.repository.UserRepositoryTest)  Time elapsed: 31.449 s  <<< ERROR!
+org.springframework.jdbc.CannotGetJdbcConnectionException: 
+Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at az.techstore.repository.UserRepositoryTest.testGetUserList(UserRepositoryTest.java:30)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: 
+Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at az.techstore.repository.UserRepositoryTest.testGetUserList(UserRepositoryTest.java:30)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: 
+Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at az.techstore.repository.UserRepositoryTest.testGetUserList(UserRepositoryTest.java:30)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at az.techstore.repository.UserRepositoryTest.testGetUserList(UserRepositoryTest.java:30)
+

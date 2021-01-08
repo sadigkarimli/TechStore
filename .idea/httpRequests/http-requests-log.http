@@ -1,0 +1,24 @@
+GET http://localhost:8080/index
+
+<> 2019-10-13T062031.404.json
+
+###
+
+GET http://localhost:8080
+
+<> 2019-10-13T062015.404.json
+
+###
+
+GET http://localhost:8080
+
+<> 2019-10-13T061955.404.json
+
+###
+
+GET http://localhost:8080
+
+<> 2019-10-13T061307.404.json
+
+###
+

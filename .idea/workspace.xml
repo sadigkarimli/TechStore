@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a3b6171-f83a-4e5f-b772-5359438c5ba3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/about-us.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/contact.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/help-center-category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/az/techstore/repository/UserRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termMarkCalculator/out/production/termMarkCalculator/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termMarkCalculator/out/production/termMarkCalculator/com/company/Main.java___jb_tmp___" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termMarkCalculator/out/production/termMarkCalculator/com/company/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termMarkCalculator/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termMarkCalculator/src/com/company/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/TechstoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/TechstoreApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/controller/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/controller/WebController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/controller/rest/UserRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/controller/rest/UserRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/domain/UserStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/domain/UserStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/repository/SqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/repository/SqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/repository/impl/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/repository/impl/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/repository/impl/rowmapper/UserRowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/repository/impl/rowmapper/UserRowMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/schedule/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/schedule/Schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/techstore/util/EmailUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/techstore/util/EmailUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/user-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/user-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techStore.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/techStore.log.2019-11-03" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="configuration" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S4hUilYaAL9ofhNjNS51ZsLeH6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/img/account" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/template" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/template/mstore" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/assets" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/index" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TechstoreApplication">
+    <configuration name="TechstoreApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/TechstoreApplication.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="TechstoreApplication#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/TechstoreApplication.http" index="2">
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRepositoryTest.testGetUserList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techstore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.techstore.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="az.techstore.repository" />
+      <option name="MAIN_CLASS_NAME" value="az.techstore.repository.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testGetUserList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="techstore-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="az.techstore.TechstoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.TechstoreApplication#1" />
+      <item itemvalue="HTTP Request.TechstoreApplication#2" />
+      <item itemvalue="JUnit.UserRepositoryTest.testGetUserList" />
+      <item itemvalue="Spring Boot.TechstoreApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRepositoryTest.testGetUserList" />
+        <item itemvalue="HTTP Request.TechstoreApplication#2" />
+        <item itemvalue="HTTP Request.TechstoreApplication#1" />
+        <item itemvalue="HTTP Request.TechstoreApplication#2" />
+        <item itemvalue="HTTP Request.TechstoreApplication#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3b6171-f83a-4e5f-b772-5359438c5ba3" name="Default Changelist" comment="" />
+      <created>1570828792392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570828792392</updated>
+      <workItem from="1570828794244" duration="1578000" />
+      <workItem from="1570881133394" duration="236000" />
+      <workItem from="1570882178365" duration="142000" />
+      <workItem from="1570882859861" duration="1934000" />
+      <workItem from="1570967843104" duration="10000" />
+      <workItem from="1570969560804" duration="607000" />
+      <workItem from="1570971452548" duration="17438000" />
+      <workItem from="1571070507945" duration="2419000" />
+      <workItem from="1571080905291" duration="1120000" />
+      <workItem from="1571083686926" duration="2689000" />
+      <workItem from="1571138020584" duration="10777000" />
+      <workItem from="1571211910098" duration="237000" />
+      <workItem from="1571239040128" duration="3241000" />
+      <workItem from="1571253042746" duration="1381000" />
+      <workItem from="1571310071395" duration="13002000" />
+      <workItem from="1571404601726" duration="27268000" />
+      <workItem from="1571506574548" duration="13325000" />
+      <workItem from="1571553321702" duration="37582000" />
+      <workItem from="1571643835377" duration="445000" />
+      <workItem from="1571663325017" duration="42279000" />
+      <workItem from="1571805033192" duration="34093000" />
+      <workItem from="1571910769526" duration="17573000" />
+      <workItem from="1572007142334" duration="45135000" />
+      <workItem from="1572156717288" duration="11256000" />
+      <workItem from="1572270574532" duration="16798000" />
+      <workItem from="1572352038095" duration="15876000" />
+      <workItem from="1572411148636" duration="28889000" />
+      <workItem from="1572502731867" duration="13169000" />
+      <workItem from="1572615220705" duration="19693000" />
+      <workItem from="1572680798541" duration="36284000" />
+      <workItem from="1572792041673" duration="20366000" />
+      <workItem from="1572898095021" duration="2894000" />
+      <workItem from="1572964826260" duration="2856000" />
+      <workItem from="1573147700894" duration="856000" />
+      <workItem from="1573197407763" duration="6863000" />
+      <workItem from="1573409583342" duration="5065000" />
+      <workItem from="1573457808504" duration="4553000" />
+      <workItem from="1573583650668" duration="7026000" />
+      <workItem from="1573622785100" duration="6766000" />
+      <workItem from="1573713874131" duration="1774000" />
+      <workItem from="1573809915984" duration="983000" />
+      <workItem from="1573977841015" duration="2188000" />
+      <workItem from="1574228674999" duration="5436000" />
+      <workItem from="1574595056454" duration="5895000" />
+      <workItem from="1574707264359" duration="1411000" />
+      <workItem from="1574784345538" duration="1245000" />
+      <workItem from="1574835945175" duration="269000" />
+      <workItem from="1574838308166" duration="5390000" />
+      <workItem from="1574853644515" duration="3678000" />
+      <workItem from="1574860551566" duration="4453000" />
+      <workItem from="1574881142216" duration="8528000" />
+      <workItem from="1574916474901" duration="21772000" />
+      <workItem from="1575011371799" duration="4286000" />
+      <workItem from="1575135932739" duration="4135000" />
+      <workItem from="1575180188140" duration="1805000" />
+      <workItem from="1575267174250" duration="60000" />
+      <workItem from="1575327550988" duration="249000" />
+      <workItem from="1575357514164" duration="53000" />
+      <workItem from="1577529412752" duration="43000" />
+      <workItem from="1579084170043" duration="1532000" />
+      <workItem from="1583263863833" duration="1913000" />
+      <workItem from="1586206025124" duration="1279000" />
+    </task>
+    <task id="LOCAL-00001" summary="index page front implemented">
+      <created>1571072266783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571072266783</updated>
+    </task>
+    <task id="LOCAL-00002" summary="index page front implemented">
+      <created>1571161397405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571161397405</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Category class implemented">
+      <created>1571310188760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571310188760</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Registration form validation implemented">
+      <created>1571592098805</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571592098805</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Registration form validation bug fixed">
+      <created>1571592760263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571592760263</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Registration form validation common service implemented">
+      <created>1571597719435</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571597719436</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Registration Notification Repository implemented WIP">
+      <created>1571606060624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571606060624</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Email Sending Implemented, Registration main part completed without configuration">
+      <created>1571841970160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571841970160</updated>
+    </task>
+    <task id="LOCAL-00009" summary="user repository new methods implemented WIP">
+      <created>1571854665680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571854665680</updated>
+    </task>
+    <task id="LOCAL-00010" summary="login form based spring security implemented WIP">
+      <created>1572074996178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572074996178</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reset password implemented WIP">
+      <created>1572369009526</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572369009526</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Last Changes">
+      <created>1572444718439</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1572444718439</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Rest API for country and city implemented">
+      <created>1572698225723</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572698225723</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Solid Principles applied WIP">
+      <created>1572796487681</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1572796487682</updated>
+    </task>
+    <task id="LOCAL-00015" summary="User List Rest Implemented WIP">
+      <created>1573458851475</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1573458851475</updated>
+    </task>
+    <task id="LOCAL-00016" summary="User List Rest Implemented WIP">
+      <created>1573584758795</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1573584758795</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="index page front implemented" />
+    <MESSAGE value="Category class implemented" />
+    <MESSAGE value="Registration form validation implemented" />
+    <MESSAGE value="Registration form validation bug fixed" />
+    <MESSAGE value="Registration form validation common service implemented" />
+    <MESSAGE value="Registration Notification Repository implemented WIP" />
+    <MESSAGE value="Email Sending Implemented, Registration main part completed without configuration" />
+    <MESSAGE value="user repository new methods implemented WIP" />
+    <MESSAGE value="login form based spring security implemented WIP" />
+    <MESSAGE value="reset password implemented WIP" />
+    <MESSAGE value="Last Changes" />
+    <MESSAGE value="Rest API for country and city implemented" />
+    <MESSAGE value="Solid Principles applied WIP" />
+    <MESSAGE value="User List Rest Implemented WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="User List Rest Implemented WIP" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="27" width="827" height="741" key="#TechstoreApplication" timestamp="1586206091398">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="271" y="27" width="827" height="741" key="#TechstoreApplication/0.27.1366.741@0.27.1366.741" timestamp="1586206091398" />
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586206430898">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586206430898" />
+    <state x="415" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586206426695">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1586206426695" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583268825511">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583268825511" />
+    <state width="1320" height="489" key="GridCell.Tab.0.bottom" timestamp="1586207370626">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586207370626" />
+    <state width="1320" height="489" key="GridCell.Tab.0.center" timestamp="1586207370626">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586207370626" />
+    <state width="1320" height="489" key="GridCell.Tab.0.left" timestamp="1586207370626">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586207370626" />
+    <state width="1320" height="489" key="GridCell.Tab.0.right" timestamp="1586207370626">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586207370626" />
+    <state width="1320" height="489" key="GridCell.Tab.1.bottom" timestamp="1586207370629">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586207370629" />
+    <state width="1320" height="489" key="GridCell.Tab.1.center" timestamp="1586207370628">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1586207370628" />
+    <state width="1320" height="489" key="GridCell.Tab.1.left" timestamp="1586207370627">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1586207370627" />
+    <state width="1320" height="489" key="GridCell.Tab.1.right" timestamp="1586207370628">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="489" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1586207370628" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1583268735601">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1583268735601" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/az/techstore/service/impl/CommonServiceImpl.java</url>
+          <line>10</line>
+          <properties field="commonRepository" class="az.techstore.service.impl.CommonServiceImpl" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
